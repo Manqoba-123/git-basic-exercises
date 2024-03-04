@@ -1,0 +1,500 @@
+   83  ls
+   84  mkdir c js bash
+   85  ls
+   86  cd c
+   87  touch c_is_fun.c
+   88  cd ..
+   89  cd js
+   90  touch main.js index.js
+   91  ls
+   92  cd ..
+   93  cd bash
+   94  vi alx
+   95  vi school
+   96  cd ..
+   97  clear
+   98  git add .
+   99  git commit -m “Starting to code today, so cool”
+  100  cd documents
+  101  cd alx_work
+  102  git clone https://
+  103  git clone https://
+  104  git clone https://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@github.com/Manqoba-123/shell-study.git
+  105  clear
+  106  cd shell-study
+  107  ls
+  108  vi shell document
+  109  vi shell document.txt
+  110  claer
+  111  clear
+  112  ls
+  113  vi shell_document.txt
+  114  git add .
+  115  git commit -m "adding a document"
+  116  git push
+  117  clear
+  118  ls
+  119  vi shell_document.txt
+  120  vi shell_document.txt
+  121  vi shell_document.txt
+  122  cd documents
+  123  ls
+  124  cd alx-work
+  125  cd alx_work
+  126  ls
+  127  cd C-programming_learning
+  128  clear
+  129  ls
+  130  mkdir arrays
+  131  cd arrays
+  132  vi compile_time.c
+  133  vi compile_time.c
+  134  betty compile_time.c
+  135  clear
+  136  gcc compile_time.c -o 0-compile_time
+  137  ls
+  138  ./0-compile_time
+  139  vi compile_time.c
+  140  gcc compile_time.c -o 0-compile_time
+  141  ./0-compile_time
+  142  clear
+  143  vi compile_time.c
+  144  gcc compile_time.c -o 0-compile_time
+  145  ./0-compile_time
+  146  vi compile_time.c
+  147  gcc compile_time.c -o 0-compile_time
+  148  ./0-compile_time
+  149  vi compile_time.c
+  150  clear
+  151  gcc compile_time.c -o 0-compile_time
+  152  ./0-compile_time
+  153  clear
+  154  vi compile_time.c
+  155  gcc compile_time.c -o 0-compile_time
+  156  ./0-compile_time
+  157  vi compile_time.c
+  158  gcc compile_time.c -o 0-compile_time
+  159  ./0-compile_time
+  160  clear
+  161  vi 1-run_time.c
+  162  gcc 1-run_time.c -o 1-run_time
+  163  ./run_time
+  164  ./1-run_time
+  165  clear
+  166  vi 1-run_time.c
+  167  gcc 1-run_time.c -o 1-run_time
+  168  ./1-run_time
+  169  clear
+  170  vi 1-run_time.c
+  171  gcc 1-run_time.c -o 1-run_time
+  172  ./1-run_time
+  173  clear
+  174  vi 1-run_time.c
+  175  gcc 1-run_time.c -o 1-run_time
+  176  gcc 1-run_time.c -o 1-run_time
+  177  ./1-run_time
+  178  clear
+  179  vi 1-run_time.c
+  180  gcc 1-run_time.c -o 1-run_time
+  181  ./1-run_time
+  182  vi 1-run_time.c
+  183  gcc 1-run_time.c -o 1-run_time
+  184  ./1-run_time
+  185  vi 1-run_time.c
+  186  gcc 1-run_time.c -o 1-run_time
+  187  ./1-run_time
+  188  vi 1-run_time.c
+  189  clear
+  190  vi 1-run_time.c
+  191  gcc 1-run_time.c -o 1-run_time
+  192  ./1-run_time
+  193  clear
+  194  vi 1-run_time.c
+  195  gcc 1-run_time.c -o 1-run_time
+  196  ./1-run_time
+  197  vi 1-run_time.c
+  198  clear
+  199  gcc 1-run_time.c -o 1-run_time
+  200  vi 1-run_time.c
+  201  ./1-run_time
+  202  vi 1-run_time.c
+  203  gcc 1-run_time.c -o 1-run_time
+  204  ./1-run_time
+  205  vi 1-run_time.c
+  206  gcc 1-run_time.c -o 1-run_time
+  207  ./1-run_time
+  208  clear
+  209  vi 1-run_time.c
+  210  gcc 1-run_time.c -o 1-run_time
+  211  ./1-run_time
+  212  clear
+  213  vi 1-run_time.c
+  214  gcc 1-run_time.c -o 1-run_time
+  215  ./1-run_time
+  216  vi 1-run_time.c
+  217  clear
+  218  gcc 1-run_time.c -o 1-run_time
+  219  ./1-run_time
+  220  clear
+  221  vi 1-run_time.c
+  222  gcc 1-run_time.c -o 1-run_time
+  223  ./1-run_time
+  224  clear
+  225  vi 1-run_time.c
+  226  gcc 1-run_time.c -o 1-run_time
+  227  ./1-run_time
+  228  clear
+  229  vi 1-run_time.c
+  230  gcc 1-run_time.c -o 1-run_time
+  231  ./1-run_time
+  232  vi 1-run_time.c
+  233  vi 1-run_time.c
+  234  gcc 1-run_time.c -o 1-run_time
+  235  ./1-run_time
+  236  vi 1-run_time.c
+  237  clear
+  238  gcc 1-run_time.c -o 1-run_time
+  239  ./1-run_time
+  240  cd documents
+  241  cd alx_work
+  242  cd C-programming_learning
+  243  ls
+  244  cd arrys
+  245  cd arrays
+  246  ls
+  247  ./1-run_time
+  248  ./compile_time
+  249  ./compile_time.c
+  250  clear
+  251  ./compile-time
+  252  ls
+  253  ./0-compile_time
+  254  vi compile_time
+  255  vi compile_time.c
+  256  vi 1-run_time.c
+  257  cd ..
+  258  git add .
+  259  git commit -m "Arrays"
+  260  git push
+  261  cd documents
+  262  cd alx_work
+  263  clear
+  264  ls
+  265  cd C-programming_learning
+  266  cd array
+  267  ls
+  268  cd arrays
+  269  ls
+  270  ./1-run_time
+  271  vi 1-run_time.c
+  272  cd documents
+  273  cd alx_work
+  274  cd C-programming_learning
+  275  ls
+  276  cd arrays
+  277  ls
+  278  clear
+  279  vi compile_time.c
+  280  cd documents
+  281  cd alx_work
+  282  cd C-programming_learning
+  283  cd arrays
+  284  clear
+  285  ls
+  286  clear
+  287  vi 2-marks.c
+  288  gcc 2-marks.c -o 2-marks
+  289  vi 2-marks.c
+  290  clear
+  291  gcc 2-marks.c -o 2-marks
+  292  vi 2-marks.c
+  293  clear
+  294  gcc 2-marks.c -o 2-marks
+  295  ./2-marks.c
+  296  ./2-marks
+  297  clear
+  298  ./2-marks
+  299  vi 2-marks.c
+  300  gcc 2-marks.c -o 2-marks
+  301  vi 2-marks.c
+  302  clear
+  303  gcc 2-marks.c -o 2-marks
+  304  ./2-marks
+  305  clear4
+  306  clear
+  307  vi 2-marks.c
+  308  gcc 2-marks.c -o 2-marks
+  309  clear
+  310  clear
+  311  vi 2-marks.c
+  312  gcc 2-marks.c -o 2-marks
+  313  ./2-marks
+  314  clear
+  315  vi 2-marks.c
+  316  ./2-marks
+  317  vi 2-marks.c
+  318  gcc 2-marks.c -o 2-marks
+  319  vi 2-marks.c
+  320  clear
+  321  gcc 2-marks.c -o 2-marks
+  322  vi 2-marks.c
+  323  clear
+  324  gcc 2-marks.c -o 2-marks
+  325  ./2-marks
+  326  clear
+  327  vi 2-marks.c
+  328  gcc 2-marks.c -o 2-marks
+  329  ./2-marks
+  330  clear
+  331  vi 2-marks.c
+  332  gcc 2-marks.c -o 2-marks
+  333  ./2-marks
+  334  clear
+  335  ./2-marks
+  336  vi 2-marks.c
+  337  gcc 2-marks.c -o 2-marks
+  338  clear
+  339  vi 2-marks.c
+  340  gcc 2-marks.c -o 2-marks
+  341  clear
+  342  vi 2-marks.c
+  343  gcc 2-marks.c -o 2-marks
+  344  clea
+  345  clear
+  346  vi 2-marks.c
+  347  gcc 2-marks.c -o 2-marks
+  348  ./2-marks
+  349  clear
+  350  vi 2-marks.c
+  351  gcc 2-marks.c -o 2-marks
+  352  ./2-marks
+  353  clear
+  354  vi 2-marks.c
+  355  gcc 2-marks.c -o 2-marks
+  356  ./2-marks
+  357  clear
+  358  vi 2-marks.c
+  359  gcc 2-marks.c -o 2-marks
+  360  ./2-marks
+  361  vi 2-marks.c
+  362  clear
+  363  gcc 2-marks.c -o 2-marks
+  364  ./2-marks
+  365  clear
+  366  vi 2-marks.c
+  367  ./2-marks
+  368  vi 2-marks.c
+  369  clear
+  370  gcc 2-marks.c -o 2-marks
+  371  clear
+  372  vi 2-marks.c
+  373  gcc 2-marks.c -o 2-marks
+  374  ./2-marks
+  375  vi 2-marks.c
+  376  gcc 2-marks.c -o 2-marks
+  377  ./2-marks
+  378  clear
+  379  ./2-marks
+  380  clear
+  381  vi 2-marks.c
+  382  git add .
+  383  git commit -m "Adding 2-marks.c file"
+  384  git push
+  385  cd documents
+  386  ls
+  387  cd alx_work
+  388  clear
+  389  ls
+  390  cd html_css_vanilla-js
+  391  ls
+  392  clear
+  393  ls
+  394  cd ..
+  395  clear
+  396  ls
+  397  cd pythonprac
+  398  ls
+  399  clear
+  400  ls
+  401  vi hello_a.py
+  402  python hello_a.py
+  403  vi hello_a.py
+  404  python hello_a.py
+  405  cd first_week
+  406  ls
+  407  vi 0-week.py
+  408  clear
+  409  ls
+  410  python 0-week.py
+  411  python 1-week_0.py
+  412  vi 1-week_0.py
+  413  python 3-week_0.py
+  414  python check.py
+  415  vi check.py
+  416  clear
+  417  ls
+  418  cd documents
+  419  cls
+  420  clear
+  421  ls
+  422  cd alx_work
+  423  ls
+  424  cd alx-low_level_programming
+  425  ls
+  426  cd ..
+  427  rm -a alx-low_level_programming
+  428  ls
+  429  rm -r alx-low_level_programming
+  430  clear
+  431  ls
+  432  cd alx-low_level_programming
+  433  ls
+  434  cd ..
+  435  ls
+  436  cd alx-low_level_programming
+  437  ls
+  438  git clone $ git clone https://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@github.com/Manqoba-123/alx-low_level_programming.git
+  439  cd ..
+  440  ls
+  441  git clone $ git clone https://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@github.com/Manqoba-123/alx-low_level_programming.git
+  442  ls
+  443  clear
+  444  cd documents
+  445  ls
+  446  cd prog1
+  447  ls
+  448  pwd
+  449  clear
+  450        c++_practise
+  451  cd c++_practice
+  452  ls
+  453  cd c++_practise
+  454  pwd
+  455  g++ --version
+  456  vi helloworld.cpp
+  457  vi helloworld.cpp
+  458  clear
+  459  g++ helloword.cpp -o 'test1 helloworld'
+  460  ls
+  461  g++ helloworld.cpp -o 'test1 helloworld'
+  462  ls
+  463  g++ helloworld.cpp -o 'test1'
+  464  ls
+  465  ls
+  466  clear
+  467  g++ helloworld.cpp -o 'test1'
+  468  ls
+  469  r
+  470  cd documents
+  471  ls
+  472  cd prog1
+  473  clear
+  474  ls
+  475  cd c++_practise
+  476  ls
+  477  rm -r helloworld.cpp
+  478  ls
+  479  clear
+  480  vi helloworld.cpp
+  481  g++ helloworld.cpp -o 'test1'
+  482  vi helloworld.cpp
+  483  g++ helloworld.cpp -o 'test1'
+  484  ls
+  485  vi helloworld_1.cpp
+  486  g++ helloworld_1.cpp -o 'test'
+  487  ls
+  488  ls
+  489  cd documents
+  490  cd prog1
+  491  cd c++_practise
+  492  ls
+  493  file_2.exe
+  494  helloworld.exe
+  495  clear
+  496  ls
+  497  vi helloworld.cpp
+  498  cd .
+  499  ls
+  500  clear
+  501  cd documents
+  502  ls
+  503  clear
+  504  mkdir git-basic-exercises
+  505  cd git-basic-exercises
+  506  ls
+  507  ls -a
+  508  clear
+  509  git init
+  510  ls -a
+  511  git status
+  512  touch README.md
+  513  ls -a
+  514  git status
+  515  clear
+  516  git log
+  517  git status
+  518  git add .
+  519  git status
+  520  git reset HEAD README.md
+  521  git reset HEAD README
+  522  cls
+  523  clear
+  524  git reset HEAD README
+  525  git reset README
+  526  git restore --staged README.md
+  527  clear
+  528  git status
+  529  git rm --cached README.md
+  530  git status
+  531  git add .
+  532  clear
+  533  git status
+  534  git commit -m "initial commit"
+  535  git log
+  536  nano README.md
+  537  cat README.md
+  538  clear
+  539  git status
+  540  git add .
+  541  git status
+  542  git commit -m "second commit"
+  543  nano README.md
+  544  clear
+  545  git status
+  546  git add .
+  547  git commit -m "third commit"
+  548  git log
+  549  git checkout d92b1b5e98bf56e9861384902b3974eea24fa6e2
+  550  cat README.md
+  551  git branch
+  552  git checkout main
+  553  git checkout master
+  554  cat README.md
+  555  clear
+  556  git checkout milkshake-flavours
+  557  git branch milkshake-flavours
+  558  git checkout milkshake-flavours
+  559  git branch
+  560  nano milkshake.md
+  561  git status
+  562  git add .
+  563  git commit -m "added initial flavours"
+  564  git log
+  565  clear
+  566  git checkout master
+  567  ls -a
+  568  git status
+  569  git log
+  570  clear
+  571  git branch history
+  572  git branch
+  573  git checkout history
+  574  git log
+  575  clear
+  576  clear
+  577  git log
+  578  clear
+  579  history
+  580  clear
+  581  histoy > history.txt
+  582  history > history.txt
